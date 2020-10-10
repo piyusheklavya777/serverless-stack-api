@@ -143,3 +143,9 @@ To [override the default config](https://eslint.org/docs/user-guide/configuring)
 ---
 
 This repo is maintained by [Anomaly Innovations](https://anoma.ly); makers of [Seed](https://seed.run) and [Serverless Stack](https://serverless-stack.com).
+
+
+# note IDs
+aadacfc0-0b2e-11eb-8b5a-5d2ff5d69e9f
+ea7f8940-0b2e-11eb-9f2a-61144934971a
+22923df0-0b2f-11eb-8cd0-9b798a25623b
